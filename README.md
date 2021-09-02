@@ -1,2 +1,2 @@
-# XSP
-Xinfin Swap Protocol 
+# Xinfin Swap Protocol
+
