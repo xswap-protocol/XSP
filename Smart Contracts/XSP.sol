@@ -31,7 +31,7 @@ contract SafeMath {
 }
 
 
-contract XinfinSwapProtocol is XRC20Interface, SafeMath {
+contract XSwapProtocol is XRC20Interface, SafeMath {
     string public name;
     string public symbol;
     uint8 public decimals; // 8 decimals is the strongly suggested default, avoid changing it
@@ -47,7 +47,7 @@ contract XinfinSwapProtocol is XRC20Interface, SafeMath {
      * Initializes contract with initial supply tokens to the creator of the contract
      */
     constructor() public {
-        name = "Xinfin Swap Protocol";
+        name = "X Swap Protocol";
         symbol = "XSP";
         decimals = 8;
         _totalSupply = 1300000000000000000;
