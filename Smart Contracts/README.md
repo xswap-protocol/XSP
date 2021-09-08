@@ -1,6 +1,6 @@
 # Smart Contracts 
 
-- XinfinSwapProtocol.sol
+- XSwapProtocol.sol
 - Crowdsale.sol
 - Staking.sol
 - Farming.sol
