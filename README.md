@@ -26,7 +26,7 @@ Secure & Easy way to Swap your XRC20 Tokens .
 
 
 
-[English Version](https://xinfin.uk/WhitepaperV1.pdf)
-[Chinese Version](https://xinfin.uk/CN.pdf)
+[English Version](https://xspswap.finance/WhitepaperV1.pdf)
+[Chinese Version](https://xspswap.finance/CN.pdf)
 
 
