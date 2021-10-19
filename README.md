@@ -4,7 +4,7 @@ Secure & Easy way to Swap your XRC20 Tokens .
 
 
 
-![logo](https://xspswap.finance/welcome.png)
+![Alt text](https://xspswap.finance/welcome.png)
 
 ## Introduction : 
 
